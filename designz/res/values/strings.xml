@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moderndesign</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+  <string-array name = "myapps"
+      >
+      <item> sofin
+          </item>
+       <item >senthil
+          </item>
+        <item >anand
+          </item>
+         <item> anoop
+          </item>
+          </string-array>
+          </resources>
